@@ -39,4 +39,9 @@ public class ConejoMQConfig {
                 .to(exchange())
                 .with(routingKey);
     }
+
+    // SpringBoot auto-configuration will automatically configure these beans
+    // ConnectionFactory
+    // RabbitTemplate
+    // RabbitAdmin
 }
