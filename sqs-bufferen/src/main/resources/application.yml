@@ -1,0 +1,15 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: 1234
+      secret-key: 5678
+    endpoint:
+      uri: https://sqs.us-east-1.amazon.com/8948948695865/sqs-wachtrij
+
+server:
+  port: 8988

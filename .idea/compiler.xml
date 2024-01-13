@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sns-bufferen" />
+        <module name="sqs-bufferen" />
         <module name="guias-conejomq" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="guias-conejomq" options="-parameters" />
       <module name="sns-bufferen" options="-parameters" />
+      <module name="sqs-bufferen" options="-parameters" />
     </option>
   </component>
 </project>
