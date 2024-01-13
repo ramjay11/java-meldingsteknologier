@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/guias-conejomq/pom.xml" />
+        <option value="$PROJECT_DIR$/sns-bufferen/pom.xml" />
       </list>
     </option>
   </component>
