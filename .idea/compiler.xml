@@ -15,8 +15,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="guias-conejomq" options="-parameters" />
-      <module name="sns-bufferen" options="-parameters" />
-      <module name="sqs-bufferen" options="-parameters" />
+      <module name="sns-bufferen" options="" />
+      <module name="sqs-bufferen" options="" />
     </option>
   </component>
 </project>
